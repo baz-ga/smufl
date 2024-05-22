@@ -3,7 +3,7 @@ Version history
 
 Version 1.5 (2024):
 
--   Added `accidentalQuarterToneSharpZimmermann` (U+E286), `accidentalThreeQuarterToneZimmermann` (U+E287), and `accidentalQuarterToneSharpSharpZimmermann` (U+E288) in the [Stein-Zimmermann accidentals](../tables/stein-zimmermann-accidentals-24-edo.md) range
+-   Added `accidentalQuarterToneSharpZimmermann` (U+E286), `accidentalThreeQuarterToneSharpZimmermann` (U+E287), and `accidentalQuarterToneSharpZimmermannAndSharp` (U+E288) in the [Stein-Zimmermann accidentals](../tables/stein-zimmermann-accidentals-24-edo.md) range
 
 Version 1.40 (2021-03-15):
 
